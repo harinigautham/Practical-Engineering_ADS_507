@@ -13,6 +13,10 @@ git init
 
 git clone https://github.com/harinigautham/Practical-Engineering_ADS_507/edit/main/README.md
 
+## Deployment
+---
+Our team completed writing the code and committed it to GitHub as source control repository. We edited and test our code on two different environment computer(Windows and Mac) to make sure everythings works well. 
+
 ## Contributors
 ---
 Harini Lakshmanan, Jiaqi He, and Mendelina Lopez
