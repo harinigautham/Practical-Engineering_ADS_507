@@ -23,7 +23,11 @@ Harini Lakshmanan, Jiaqi He, and Mendelina Lopez
 
 ## Project Description
 ---
-The data was found on kaggle and consists of four datasets: ‘kiva_loans’, ‘kiva_mpi_region_locations’, ‘loan_theme_ids’, and ‘loan_themse_by_region’. We will also be incorporating the ‘world_x’ dataset found in the SQL database to provide information on the various countries around the world. 
+The data was found on kaggle and consists of four datasets: ‘kiva_loans’, ‘kiva_mpi_region_locations’, ‘loan_theme_ids’, and ‘loan_themse_by_region’. We will also be incorporating the ‘world’ dataset found in the SQL database to provide information on the various countries around the world. 
+
+## Monitor the pipeline
+---
+Incorporating logs will provide useful insights and detailed information in terms of quality.
 
 ## Reference
 ---
